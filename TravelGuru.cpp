@@ -6,6 +6,7 @@
 #include<iomanip.h>
 #include<fstream.h>
 #include<windows.h>
+//For test
 class Travel
 {
 	 float pascode;
