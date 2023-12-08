@@ -1,7 +1,7 @@
 # Travel_Guru
 <h2>Customized travel planner for clients from hotel booking, event booking to travel booking all in one place</h3>
 </br>
-<h3>Details about project:</h3>
+<h3>Features about project:</h3>
 <ul>
   <li>Sign in</li>
   <li>Sign up</li>
