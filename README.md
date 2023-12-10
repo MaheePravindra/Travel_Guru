@@ -3,7 +3,7 @@
 </br>
 <h3>Features about project:</h3>
 <ul>
-  <li>Sign in</li>
+  <li>Login/Logout</li>
   <li>Sign up</li>
   <li>New Trip</li>
   <li>Book Hotel</li>
