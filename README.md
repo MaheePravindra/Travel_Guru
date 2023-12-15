@@ -6,6 +6,8 @@
   <li>Login/Logout</li>
   <li>Sign up</li>
   <li>New Trip</li>
+
+  <li>Cancle Trip</li>
   <li>Book Hotel</li>
   <li>Members</li>
   <li>Show travelling history</li>
@@ -14,5 +16,4 @@
   <li>Tourist destinations</li>
   <li>Recommendations based on budget set</li>
   <li>Possible discounts you can avail</li>
-  <li>Cancle Trip</li>
 </ul>
